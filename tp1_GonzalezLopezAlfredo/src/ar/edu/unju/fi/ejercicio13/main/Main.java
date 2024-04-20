@@ -8,7 +8,7 @@ public class Main {
 		int vector [] = new int[8];
 		Scanner sc = new Scanner(System.in);
 		
-		for(int i=1;i<8;i++) {
+		for(int i=0;i<8;i++) {
 			System.out.println("Ingrese un numero: ");
 			vector[i]=sc.nextInt();
 			System.out.println("Numero: "+vector[i]+" posicion "+i);
