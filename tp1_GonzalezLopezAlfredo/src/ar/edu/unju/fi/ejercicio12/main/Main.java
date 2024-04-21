@@ -24,7 +24,7 @@ public class Main {
         Calendar fechaNacimiento = Calendar.getInstance();
         fechaNacimiento.set(año, mes, dia);
 
-        // Crear una instancia de Persona con los datos proporcionados
+        
         Persona persona = new Persona(nombre, fechaNacimiento);
 
         // Mostrar los datos de la persona y los resultados de los métodos

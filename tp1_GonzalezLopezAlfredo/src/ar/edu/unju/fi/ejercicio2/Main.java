@@ -5,10 +5,10 @@ public class Main {
 	public static void main(String[] args) {
 		String pais = "España";
 		int edad = 26;
-		float alturaEdificio = 171.8f;
-		float precioProducto = 542.4f;
+		double alturaEdificio = 171.6;
+		double precioProducto = 542.4;
 		double numeroTelefono = 3884775847d;
-		float coseno = 0.5f;
+		double coseno = 0.5;
 		System.out.println(pais);
 		System.out.println(edad);
 		System.out.println(alturaEdificio);
